@@ -1,4 +1,4 @@
-# include <stio.h>
+# include <stdio.h>
 /**
  * main - A program that prints the size of variouse computer types
  * Return: 0 (pass)

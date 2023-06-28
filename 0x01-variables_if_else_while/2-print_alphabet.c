@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * mani - A program that prints the alphabet in lowercase
+ * main - A program that prints the alphabet in lowercase
  * Return: Always 0 (Pass)
  */
 

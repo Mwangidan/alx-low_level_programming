@@ -3,6 +3,7 @@
  * mani - A program that prints the alphabet in lowercase
  * Return: Always 0 (Pass)
  */
+
 int main(void)
 {
 	char c;

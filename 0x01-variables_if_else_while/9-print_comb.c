@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - A program that prints all possible combinations
- * REturn: Always 0 (Pass)
+ * Return: Always 0 (Pass)
  */
 int main(void)
 {
@@ -9,12 +9,12 @@ int main(void)
 
 	for (a = 0; a < 10; a++)
 	{
-		putchar(a + '0');
-	}
+	putchar(a + '0');
 	if (a < 9)
 	{
-		putchar(',');
-		putchar(' ');
+	putchar(',');
+	putchar(' ');
+	}
 	}
 	putchar('\n');
 	return (0);

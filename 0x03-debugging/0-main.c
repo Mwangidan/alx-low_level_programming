@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
  * main - test for positive or negative
